@@ -1,0 +1,12 @@
+Package: PARAFACLog
+Type: Package
+Title: PARAFAC-Log model
+Depends: R (>= 3.5.0), MultBiplotR, ThreeWay,rTensor
+Version: 0.1.0
+Author: Elisa Frutos Bernal
+Maintainer: Elisa Frutos Bernal <efb@usal.es>
+Description: It performs the PARAFAC-Log model for a coupled dataset being X a three-way real-valued data array and Y a matrix of binary data matrix
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
